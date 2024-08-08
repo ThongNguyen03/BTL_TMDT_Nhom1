@@ -1,0 +1,730 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|d:\\it\\tmdt-vs2019\\btl_tmdt\\btl_tmdt\\views\\orders\\statistical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:btl_tmdt\\views\\orders\\statistical.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\SellingProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Products\\SellingProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Orders\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\DataUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\DataUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\UnsoldProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Products\\UnsoldProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\DataContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\DataContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\ProductContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\ProductContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Orders\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Orders\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Orders\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\Product_ImagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Controllers\\Product_ImagesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Products\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Products\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Users\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Products\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Users\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Users\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Users\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\Shipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Orders\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Users\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Categories\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Categories\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Categories\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Categories\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Categories\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Products\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Product_Images\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Product_Images\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Product_Images\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Views\\Product_Images\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\App_Start\\BundleConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\App_Start\\BundleConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\App_Start\\RouteConfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Controllers\\CategoriesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Db_TMDT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B08EDA29-238D-4558-ABB9-C05E50D8522B}|BTL_TMDT\\BTL_TMDT.csproj|solutionrelative:BTL_TMDT\\Models\\Db_TMDT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellingProduct.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\SellingProduct.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Products\\SellingProduct.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\SellingProduct.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Products\\SellingProduct.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:24:31.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAAAIMBAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T05:46:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Statistical.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Statistical.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Orders\\Statistical.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Statistical.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Orders\\Statistical.cshtml",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T09:24:35.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:21:23.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataUtil.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\DataUtil.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\DataUtil.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\DataUtil.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\DataUtil.cs",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAIwFABAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:19:00.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnsoldProduct.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\UnsoldProduct.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Products\\UnsoldProduct.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\UnsoldProduct.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Products\\UnsoldProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T06:50:01.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BTL_TMDT\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAYwJMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:14:56.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContainer.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\DataContainer.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\DataContainer.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\DataContainer.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\DataContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:16:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BTL_TMDT\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAIAwwOEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:38:17.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T16:53:02.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductContainer.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\ProductContainer.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\ProductContainer.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\ProductContainer.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\ProductContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:13:48.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Web.config",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Web.config",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Web.config",
+              "RelativeToolTip": "BTL_TMDT\\Web.config",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEQAAADVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-08T01:01:57.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:15:10.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:21:17.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:21:53.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\Order.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Order.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:27:42.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product_ImagesController.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\Product_ImagesController.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Controllers\\Product_ImagesController.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\Product_ImagesController.cs",
+              "RelativeToolTip": "BTL_TMDT\\Controllers\\Product_ImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:42:32.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T17:40:31.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T07:08:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:02:00.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAG8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T07:08:11.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T14:15:26.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Users\\Details.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Users\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T18:55:23.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:00:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Shipment.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Shipment.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\Shipment.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Shipment.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\Shipment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:29:58.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Orders\\Delete.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Orders\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:21:21.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T17:49:40.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T06:58:22.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T06:58:11.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T06:58:47.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T06:58:51.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T19:02:53.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T14:37:45.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\User.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\User.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\User.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwDEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:49:24.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\Category.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Category.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\Category.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:41:50.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\Product.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Product.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:43:07.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T14:20:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Product_Images\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Product_Images\\Delete.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Product_Images\\Delete.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Product_Images\\Delete.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T07:06:48.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Product_Images\\Create.cshtml",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Views\\Product_Images\\Create.cshtml",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Views\\Product_Images\\Create.cshtml",
+              "RelativeToolTip": "BTL_TMDT\\Views\\Product_Images\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T07:06:41.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "BTL_TMDT\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:20:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "BTL_TMDT\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:54:02.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BTL_TMDT\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:40:09.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BTL_TMDT\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:39:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Db_TMDT.cs",
+              "DocumentMoniker": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Db_TMDT.cs",
+              "RelativeDocumentMoniker": "BTL_TMDT\\Models\\Db_TMDT.cs",
+              "ToolTip": "D:\\IT\\TMDT-vs2019\\BTL_TMDT\\BTL_TMDT\\Models\\Db_TMDT.cs",
+              "RelativeToolTip": "BTL_TMDT\\Models\\Db_TMDT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:29:50.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
